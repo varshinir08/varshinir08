@@ -12,13 +12,13 @@
 
 Hi there! I'm **Varshini R**, a driven developer with a strong foundation in **Java Full Stack Development** and a passion for building impactful, scalable applications. From crafting clean backend logic in Java to designing intuitive frontends, I enjoy every layer of the development stack.
 
-- Currently working on **Java Full Stack projects** and expanding into **Web App Development**
-- Experienced in building end-to-end applications — from database design to UI/UX
-- Java enthusiast who loves solving complex problems with clean, efficient code
-- Passionate about developing responsive and user-friendly full-stack web apps
-- Also exploring **AI-powered tools** and integrating them into real-world projects
-- GitHub Achievements: **Pull Shark** · **YOLO**
-- Based in **India**
+- 🔭 Currently working on **Java Full Stack projects** and expanding into **Web App Development**
+- 💻 Experienced in building end-to-end applications — from database design to UI/UX
+- ☕ Java enthusiast who loves solving complex problems with clean, efficient code
+- 🌐 Passionate about developing responsive and user-friendly full-stack web apps
+- 🤖 Also exploring **AI-powered tools** and integrating them into real-world projects
+- 🏆 GitHub Achievements: **Pull Shark** · **YOLO**
+- 📍 Based in **India**
 
 ---
 
@@ -32,8 +32,11 @@ Hi there! I'm **Varshini R**, a driven developer with a strong foundation in **J
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -55,7 +58,7 @@ Hi there! I'm **Varshini R**, a driven developer with a strong foundation in **J
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 🚌 | **SmartMove Web App** | A smart transit web application designed to streamline commute planning and route management for users | Java, HTML, CSS, JS |
+| 🚌 | **SmartMove Web App** | A smart transit web application designed to streamline commute planning and route management for users | Java, Spring Boot, MySQL, HTML, CSS, JS |
 | 🖱️ | **[AI Mouse](https://github.com/varshinir08/CODSOFT)** | AI-powered virtual mouse controlled by hand gestures using computer vision — no physical mouse needed | Python, OpenCV, MediaPipe |
 | 🏥 | **[HALTO – Solution Challenge](https://github.com/varshinir08/SolutionChallenge_HALTO)** | Health-tech web solution built for a Google Solution Challenge, addressing healthcare accessibility | HTML, CSS, Python, Flask |
 
@@ -64,7 +67,9 @@ Hi there! I'm **Varshini R**, a driven developer with a strong foundation in **J
 ## 📊 GitHub Statistics
 
 <div align="center">
- 
+
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=varshinir08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2c8ebb&icon_color=2c8ebb&text_color=c9d1d9&ring_color=2c8ebb" />
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinir08&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c8ebb&text_color=c9d1d9" />
 
 </div>
 
@@ -73,6 +78,17 @@ Hi there! I'm **Varshini R**, a driven developer with a strong foundation in **J
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=varshinir08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -102,5 +118,15 @@ Hi there! I'm **Varshini R**, a driven developer with a strong foundation in **J
 [![GitHub](https://img.shields.io/badge/GitHub-varshinir08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshinir08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varshini%20Rajalingam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshinirajalingam)
 [![Email](https://img.shields.io/badge/Email-varshinir080405%40cognizant.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshinir080405@cognizant.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=varshinir08&color=2c8ebb&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
