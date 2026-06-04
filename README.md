@@ -67,24 +67,7 @@ Hi there! I'm **Varshini R**, a driven developer with a strong foundation in **J
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=varshinir08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2c8ebb&icon_color=2c8ebb&text_color=c9d1d9&ring_color=2c8ebb" />
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshinir08&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c8ebb&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=varshinir08&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=2c8ebb&ring=2c8ebb&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=2c8ebb&sideLabels=8b949e&dates=8b949e" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=varshinir08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
-
 </div>
 
 ---
@@ -117,7 +100,7 @@ Hi there! I'm **Varshini R**, a driven developer with a strong foundation in **J
 
 [![GitHub](https://img.shields.io/badge/GitHub-varshinir08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshinir08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varshini%20Rajalingam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshinirajalingam)
-[![Email](https://img.shields.io/badge/Email-varshinir080405%40cognizant.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshinir080405@cognizant.com)
+[![Email](https://img.shields.io/badge/Email-varshinir080405%40cognizant.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshinir080405@gmail.com)
 
 </div>
 
